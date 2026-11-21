@@ -1,0 +1,37 @@
+{
+  "id": "/",
+  "name": "ASKALL LIBRARY - Perpustakaan Fisioterapi",
+  "short_name": "ASKALL",
+  "description": "Perpustakaan digital fisioterapi untuk belajar, membaca, dan berbagi ilmu.",
+  "lang": "id",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f8f2",
+  "theme_color": "#356d5a",
+  "categories": [
+    "education",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
